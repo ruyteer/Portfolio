@@ -202,3 +202,26 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+#contact {
+  height: 100vh;
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.background {
+  width: 50%;
+  height: 80%;
+  margin-left: 20%;
+  background-color: #111;
+  border-radius: 20px;
+}
+
+.background2 {
+  width: 50%;
+  height: 80%;
+  margin-left: 30%;
+  border-radius: 20px;
+  background-color: #111;
+}
